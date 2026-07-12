@@ -55,11 +55,11 @@ export default function Hero() {
           <div className="text-xl md:text-2xl text-neutral-500 dark:text-neutral-400 mb-8">
             <TypeWriter
               sequences={[
-                "Full Stack Developer",
+                "Game Developer",
                 2000,
-                "UI/UX Enthusiast",
+                "Anti-Cheat Engineer",
                 2000,
-                "Problem Solver",
+                "Systems Architect",
                 2000,
                 "",
                 500,

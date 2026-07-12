@@ -1,7 +1,7 @@
 export const personalInfo = {
   name: "Leonid",
-  title: "Full Stack Developer",
-  description: "I craft high-performance web experiences with modern technologies. Specializing in React, Node.js, and everything in between.",
+  title: "Game & Software Developer",
+  description: "Building server systems, anti-cheat engines, and gameplay mechanics. Java, Kotlin, C++, React—whatever the problem demands.",
   email: "leonid@example.com",
   location: "Remote",
   social: {
@@ -49,6 +49,7 @@ export const projects = [
 export const skills = [
   { name: "React / Next.js", level: 95, category: "Frontend" },
   { name: "TypeScript", level: 90, category: "Frontend" },
+  { name: "JavaScript", level: 92, category: "Frontend" },
   { name: "Tailwind CSS", level: 92, category: "Frontend" },
   { name: "Three.js / R3F", level: 70, category: "Frontend" },
   { name: "Node.js", level: 88, category: "Backend" },
@@ -60,6 +61,8 @@ export const skills = [
   { name: "AWS", level: 78, category: "DevOps" },
   { name: "Git", level: 90, category: "Tools" },
   { name: "Figma", level: 72, category: "Tools" },
+  {name: "Photoshop", level: 70, category: "Tools"},
+  {name: "Blender", level: 65, category: "Tools"},
 ]
 
 export const experience = [

@@ -52,7 +52,7 @@ export default function Skills() {
           </h2>
         </FadeInView>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-8">
           {categories.map((category) => (
             <FadeInView key={category} delay={0.1}>
               <div className="p-6 rounded-2xl bg-neutral-50 dark:bg-neutral-900 border border-neutral-200 dark:border-neutral-800">
